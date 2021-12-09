@@ -1,1 +1,2 @@
 # odin-recipes
+This project will put into practice all of the HTML knowledge I have been acquiring so far while working through the Foundations of The Odin Project. The goal is to build a basic recipe website
